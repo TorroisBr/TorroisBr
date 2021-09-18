@@ -18,7 +18,6 @@ Riba City Caos - A space invaders look like.<br>
   
 </p>
 
-You can also find me on:
 
 <!---
 TorroisBr/TorroisBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
