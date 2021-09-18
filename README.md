@@ -2,10 +2,10 @@ Hello! I'm Henrique, I'm an programmer and I'm studying game development!
 
 Here are some of the games I worked on:
 
-Guardado a sete chaves - A puzzle game.
-Torrois - A puzzle game made for "GameJAAJ 2021".
-Sensato's: Espólios Temporais - An adventure game made in Java.
-Riba City Caos - A space invaders look like.
+Guardado a sete chaves - A puzzle game.<br>
+Torrois - A puzzle game made for "GameJAAJ 2021".<br>
+Sensato's: Espólios Temporais - An adventure game made in Java.<br>
+Riba City Caos - A space invaders look like.<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-martins-da-silva-81b66620a/">
